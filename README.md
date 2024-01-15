@@ -5,7 +5,8 @@
 </h3>
 
 <p align="center">
-  Hi there! I'm Amogh Gaikwad 😎, a Computer Science Engineering student at Sies Graduate School of Technology. Passionate about software engineering, my focus is on crafting innovative solutions using Python and delving into the realms of Machine Learning. With an eye on the future, I aspire to become a skilled Web Application Developer. 🔭 Currently exploring various aspects of technology, I'm on the path to becoming a Google Cybersecurity Professional. Excited about the endless possibilities in the tech world, I'm always eager to learn and contribute. 💬 Let's connect and chat about software development, web applications, or anything tech-related! Feel free to reach out at amoghgaikwad773@gmail.com
+  Hi there! I'm Amogh Gaikwad 😎, a Computer Science Engineering student at Sies Graduate School of Technology. Passionate about software engineering, I focus on crafting innovative solutions with Python and exploring the realms of Machine Learning. Aspiring to be a skilled Web Application Developer, I'm on the path to becoming a Google Cybersecurity Professional. Excited about tech possibilities, always eager to learn and contribute. 💬 Let's connect! Reach out at amoghgaikwad773@gmail.com.
+
 </p>
 
 <p align="left"> 
