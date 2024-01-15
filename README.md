@@ -1,7 +1,17 @@
-<h1 align="center">Hi 👋, I'm Amogh gaikwad</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | 🌐 Future Web Application Developer | 💻 Crafting Innovative Solutions with Python and Machine Learning | 🛠️ Google Cybersecurity Professional in Training Hi there! I'm Amogh gaikwad😎, a Computer science engineering student at Sies graduate school of technology. Passionate about software engineering, my focus is on crafting innovative solutions using Python and delving into the realms of Machine Learning. With an eye on the future, I aspire to become a skilled Web Application Developer. 🔭 Currently exploring various aspects of technology, I'm on the path to becoming a Google Cybersecurity Professional. Excited about the endless possibilities in the tech world, I'm always eager to learn and contribute. 💬 Let's connect and chat about software development, web applications, or anything tech-related! Feel free to reach out at amoghgaikwad773@gmail.com</h3>
+<h1 align="center">Hi 👋, I'm Amogh Gaikwad</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amu132&label=Profile%20views&color=0e75b6&style=flat" alt="amu132" /> </p>
+<h3 align="center">
+  🚀 Aspiring Software Engineer | 🌐 Future Web Application Developer | 💻 Crafting Innovative Solutions with Python and Machine Learning | 🛠️ Google Cybersecurity Professional in Training 
+</h3>
+
+<p align="center">
+  Hi there! I'm Amogh Gaikwad 😎, a Computer Science Engineering student at Sies Graduate School of Technology. Passionate about software engineering, my focus is on crafting innovative solutions using Python and delving into the realms of Machine Learning. With an eye on the future, I aspire to become a skilled Web Application Developer. 🔭 Currently exploring various aspects of technology, I'm on the path to becoming a Google Cybersecurity Professional. Excited about the endless possibilities in the tech world, I'm always eager to learn and contribute. 💬 Let's connect and chat about software development, web applications, or anything tech-related! Feel free to reach out at amoghgaikwad773@gmail.com
+</p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=amu132&label=Profile%20views&color=0e75b6&style=flat" alt="amu132" />
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amu132" alt="amu132" /></a> </p>
 
